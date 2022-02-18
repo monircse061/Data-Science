@@ -1,0 +1,16 @@
+https://www.kaggle.com/christianlillelund/who-quits-catboost-best-features-shap
+https://towardsdatascience.com/employees-attrition-how-catboost-and-shap-can-help-you-understand-it-814f9bfd7df4
+https://www.tandfonline.com/doi/abs/10.1080/23270012.2021.1961318
+
+https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset/version/1
+
+https://www.kaggle.com/vincentlugat/ibm-attrition-analysis-and-prediction#4.-Define-functions
+
+
+https://www.kaggle.com/mragpavank/ibm-hr-analytics-employee-attrition-performance
+
+https://www.kaggle.com/arthurtok/employee-attrition-via-ensemble-tree-based-methods
+
+https://www.kaggle.com/faressayah/ibm-hr-analytics-employee-attrition-performance/notebook
+
+https://www.kaggle.com/christianlillelund/who-quits-catboost-best-features-shap

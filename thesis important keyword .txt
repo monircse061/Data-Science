@@ -1,0 +1,10 @@
+Lift Charts
+log-log of backlog algorithm in machine learning
+max-out feature selection
+PCA
+T-SNE
+Autoencoder
+RF-SMOTE 
+RF-
+RF-Weighted
+Matthew’s Correlation Coefficient
